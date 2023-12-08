@@ -17,7 +17,7 @@
 
 <h1>QA Concepts: </h1>
 
-<a href="[QA-Learning-Materials](https://www.softwaretestinghelp.com/types-of-software-testing/#:~:text=Here%20is%20the%20high%2Dlevel%20classification%20of%20Software%20testing%20types.)https://www.softwaretestinghelp.com/types-of-software-testing/#:~:text=Here%20is%20the%20high%2Dlevel%20classification%20of%20Software%20testing%20types">QA Basic Concepts </a> 
+<a href="https://www.softwaretestinghelp.com/types-of-software-testing/#:~:text=Here%20is%20the%20high%2Dlevel%20classification%20of%20Software%20testing%20types.)">QA Basic Concepts </a> 
 
 <a href = "https://www.softwaretestinghelp.com/difference-between-test-plan-test-strategy-test-case-test-script-test-scenario-and-test-condition/#:~:text=Recommended%20Reading-,Difference%20Between%20Test%20Plan%20And%20Test%20Strategy,-Test%20Strategy%20and"> Difference between TestPlan , Scenerio and Test Plan</a> 
 
@@ -37,7 +37,6 @@
 
 <a href ="https://www.pluralsight.com/blog/software-development/tdd-vs-bdd#:~:text=By%20David%20Adsit-,TDD%20vs%20BDD,-%3A%20What%27s%20the%20difference">TDD and BDD </a>
 
-<a href = "
 
 
 
