@@ -1,5 +1,5 @@
 <h2>QA-Learning-Materials</h2>
-<p>Here I'll enlist the books, tutorials, articles or courses I've followed or following or will follow to master over the projects in my job. You can follow these to build a solid ground.In my opinion these are the detailed, free knowledge resources to learn.</p>
+<p>Here I'll enlist the books, tutorials, articles, or courses I've followed or will follow to master the projects in my job. You can follow these to build solid ground. In my opinion, these are the detailed, free knowledge resources to learn.</p>
 
 <h1>Topics: </h1>
 <ul>
@@ -29,6 +29,15 @@
 <a href = "https://www.educba.com/test-case-design-techniques/#:~:text=Test%20case%20designs%20are%20predominantly%20classified%20according%20to%20their%20nature%20of%20testing%20into%20three%20types.%20They%20are%3A">TestCase Design Techniques </a> 
 
 <a href ="https://www.guru99.com/integration-testing.html#:~:text=Deleted/Trash%20folder-,Types%20of%20Integration%20Testing,-Software%20Engineering%20defines">Integration Testing and Types </a> 
+
+<a href ="https://www.guru99.com/software-testing-seven-principles.html#:~:text=professional%20should%20know.-,7%20Principles%20of%20Software%20Testing,-Testing%20shows%20presence"> 7 software Testing Principles </a>
+
+<a href ="https://www.bmc.com/blogs/patch-hotfix-coldfix-bugfix/#:~:text=Patch%20vs%20Hotfix%20vs%20Coldfix%20vs%20Bugfix%3A%20Differences%20Explained"> Patch Vs Hotfix Vs Coldfix Vs Bugfix </a>
+
+<a href ="https://www.pluralsight.com/blog/software-development/tdd-vs-bdd#:~:text=By%20David%20Adsit-,TDD%20vs%20BDD,-%3A%20What%27s%20the%20difference">TDD and BDD </a>
+
+<a href = "
+
 
 
 <h1>QA Interview Prep</h1>
