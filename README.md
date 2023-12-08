@@ -16,6 +16,7 @@
 <a href ="https://www.linkedin.com/posts/japneet-sachdeva_full-stack-qa-activity-7025107886741594112-MCjY/?utm_source=share&utm_medium=member_desktop">QA Roadmap</a>
 
 <h1>QA Concepts: </h1>
+
 <a href="[QA-Learning-Materials](https://www.softwaretestinghelp.com/types-of-software-testing/#:~:text=Here%20is%20the%20high%2Dlevel%20classification%20of%20Software%20testing%20types.)https://www.softwaretestinghelp.com/types-of-software-testing/#:~:text=Here%20is%20the%20high%2Dlevel%20classification%20of%20Software%20testing%20types">QA Basic Concepts </a> 
 
 <a href = "https://www.softwaretestinghelp.com/difference-between-test-plan-test-strategy-test-case-test-script-test-scenario-and-test-condition/#:~:text=Recommended%20Reading-,Difference%20Between%20Test%20Plan%20And%20Test%20Strategy,-Test%20Strategy%20and"> Difference between TestPlan , Scenerio and Test Plan</a> 
