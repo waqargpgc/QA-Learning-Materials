@@ -11,7 +11,7 @@
 
 <h1>QA Roadmap: </h1>
 
-<a href ="https://roadmap.sh/qa"> QA Roadmap </a> 
+<a href ="https://roadmap.sh/qa" target="_blank"> QA Roadmap </a> 
 
 <a href ="https://www.linkedin.com/posts/japneet-sachdeva_full-stack-qa-activity-7025107886741594112-MCjY/?utm_source=share&utm_medium=member_desktop">QA Roadmap</a>
 
