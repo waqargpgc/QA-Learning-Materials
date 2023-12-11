@@ -5,7 +5,7 @@
 <ul>
   <li>QA Roadmap </li>
   <li>QA Concepts</li>
- - [QA Interview Prep](#qa-interview-prep)
+<li><a href="#qa-interview-prep">QA Interview Prep</a></li>
 </ul>
 
 
@@ -40,8 +40,9 @@
 
 
 
-<h1>QA Interview Prep</h1>
-[Free Manual QA Interview Prep](https://www.udemy.com/course/intro-to-the-manual-software-testing-interview-qa-for-qa/)
+<h1 id='qa-interview-prep'>QA Interview Prep</h1>
+<a href= "https://www.udemy.com/course/intro-to-the-manual-software-testing-interview-qa-for-qa/"> FREE Maual QA interiew prep </a>
+
 
 
 
